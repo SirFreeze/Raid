@@ -1,0 +1,10 @@
+name: Raid
+version: Pre1.1
+authors:
+  - SirFreezePvP
+  - LUJA04
+  - SoG_Skys
+main: org.squadofgods.raid.main
+api-version: 1.13
+website: https://SquadOfGods.de
+
